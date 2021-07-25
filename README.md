@@ -1,4 +1,4 @@
-# Laboratorio de Análisis y Simulación del Robot Industrial ABB IRB 1600 - 6 axis 
+# Laboratorio de Análisis y Simulación del Robot Industrial ABB IRB 1600 - 6/1.5
 Códigos en matlab desarrollados para el Laboratorio de Análisis y Simulación de Robot Industrial 
 
 El equipo de trabajo está compuesto por los siguientes integrantes
